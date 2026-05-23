@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pika
+mysql-connector-python
+python-docx
+google-generativeai
+redis
+python-multipart
